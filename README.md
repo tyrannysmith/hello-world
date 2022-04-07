@@ -1,2 +1,4 @@
 # hello-world
-Project for school 
+Project for school. 
+
+Still trying to learn this system. 
